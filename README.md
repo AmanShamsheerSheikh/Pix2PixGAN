@@ -1,6 +1,6 @@
 # Pix2PixGAN
 
-The above is the implementation of Pix2PixGAN. The models are trained on face comic datatset on kaggle for 5 epochs. The input of the generator model in a real image that is converted into a comic face.
+The above is the implementation of Pix2PixGAN. The models is trained on face comic datatset on kaggle for 5 epochs. The input of the generator model in a real image that is converted into a comic face.
 
 # Results
 | Input | Output |
