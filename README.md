@@ -1,6 +1,6 @@
 # Pix2PixGAN
 
-The above is the implementation of Pix2PixGAN. The models is trained on face comic datatset on kaggle for 5 epochs. The input of the generator model in a real image that is converted into a comic face.
+Pix2Pix is a type of Generative Adversarial Network (GAN) that learns to translate images from one domain to another. In this project, we use Pix2Pix to generate realistic outputs by training the model on paired images from two different domains. The model learns to map input images from the source domain to the target domain, creating visually appealing and contextually accurate results. The models is trained on face comic datatset on kaggle for 5 epochs. The input of the generator model in a real image that is converted into a comic face.
 
 # Results
 | Input | Output |
